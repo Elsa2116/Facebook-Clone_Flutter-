@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "481372301118",
+    "project_id": "facebook-clone-flutter-dd41b",
+    "storage_bucket": "facebook-clone-flutter-dd41b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481372301118:android:1cc401199f76b6a0f1ae6f",
+        "android_client_info": {
+          "package_name": "com.elsa.facebook_clone_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGLzB2NA9pqZ38zxkKE-puu8g6k-0RSqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
